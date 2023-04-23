@@ -19,4 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=byska&show_icons=true&theme=dracula&locale=en&layout=compact" alt="byska" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=byska&show_icons=true&theme=dracula&locale=en" alt="byska" /></p>
-![Yılan animasyonu]( https://github.com/byska/byska/blob/output/github-contribution-grid-snake.svg )
